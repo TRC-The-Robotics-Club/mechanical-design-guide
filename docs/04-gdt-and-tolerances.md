@@ -1,3 +1,0 @@
-# Gdt And Tolerances
-
-TODO
