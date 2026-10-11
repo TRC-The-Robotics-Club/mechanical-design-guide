@@ -1,7 +1,5 @@
 # Tips And Tricks
 
-# 07. Tips and Tricks
-
 ## 1. Workflow habits
 
 - **Sketch on paper first.** Five minutes with a pencil saves an hour in CAD.
