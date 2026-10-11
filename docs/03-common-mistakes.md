@@ -1,4 +1,4 @@
-# 03. Common Mistakes
+# Common Mistakes
 
 Every engineer makes these. The goal is to make them on paper, not on the shop floor.
 
