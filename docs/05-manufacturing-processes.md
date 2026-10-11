@@ -1,3 +1,0 @@
-# Manufacturing Processes
-
-TODO
