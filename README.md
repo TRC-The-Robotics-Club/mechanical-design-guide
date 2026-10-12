@@ -115,22 +115,3 @@ Tip: do not try to memorise everything. Read once, then come back to the relevan
 
 This guide is for learning and general guidance. It does not replace engineering codes, standards, or professional review. For safety-critical designs (lifting, pressure, structures, medical, vehicles), follow the relevant standards and have the design reviewed by a qualified engineer.
 
-## Roadmap
-
-- [ ] Add worked examples (bracket, shaft, gearbox mount)
-- [ ] Add fastener and bearing selection guide
-- [ ] Add basic FEA workflow for each CAD tool
-- [ ] Add a project notes template for documenting your own builds
-- [ ] Add diagrams and CAD screenshots
-
-## Contributing
-
-Found an error or want to add a section? Contributions are welcome.
-
-1. Fork the repository.
-2. Create a branch for your change (for example `fix-tolerance-table`).
-3. Keep the same style: short sections, tables where useful, and checklists at the end.
-4. Open a pull request with a short description of what you changed and why.
-
-You can also open an issue to suggest a topic or report a mistake.
-
